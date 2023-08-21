@@ -46,11 +46,7 @@ nav ul{
     display: flex;
    
     
-    
-    
-    
 }
-
 
 
 nav ul li{
@@ -89,12 +85,11 @@ a:hover{
 }
 
 
-/* ... (seu código CSS existente) */
 
 #ul2 {
     display: flex;
     align-items: center;
-    list-style: none; /* Remova a marcação de lista */
+    list-style: none; 
 }
 
 
